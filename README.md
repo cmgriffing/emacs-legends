@@ -1,8 +1,6 @@
-<img src="https://bot.land/dist/logo.png" alt="botland logo">
+# Emacs Legends
 
-# Boat.World
-
-Bot.Land is a mobile and browser based game that uses automation scripts to manage units on a battlefield. We have permission from the owner to start a community project to create an alternate marketing landing page. As such, we have decided to name the project Boat.World to avoid any SEO collisions.
+Emacs legends is a massively multiplayer online coding battle royale. This project is inspired by Vim Royale, a project by [ThePrimeagen on Twitch.tv](https://www.twitch.tv/theprimeagen).
 
 ### Goals of the Project
 

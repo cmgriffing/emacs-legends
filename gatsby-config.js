@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Boat.world`,
-    description: `A community project to reimagine a marketing site for an awesome game by an awesome streamer.`,
+    title: `Emacs Legends`,
+    description: `Emacs legends is a massively multiplayer online coding battle royale.`,
     author: `twitch chat`,
   },
-  pathPrefix: "/boat.world",
+  pathPrefix: "/emacs-legends",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {

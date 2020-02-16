@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "emacs-legends",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Emacs legends is a massively multiplayer online coding battle royale.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "",
   "engines": {
     "npm": "please-use-yarn",
     "yarn": ">= 1.21.1",
